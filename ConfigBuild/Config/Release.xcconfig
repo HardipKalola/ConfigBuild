@@ -1,0 +1,7 @@
+
+//IS_APP_NAME = Couple Game
+//IS_APP_VERSION = 1.0
+
+APP_BUNDLE_ID = com.yourBundleID.Release
+API_BASE_URL = http:/www.google.com/Release
+GOOGLE_KEY = ReleaseGoogleKey
